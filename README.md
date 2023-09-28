@@ -21,8 +21,8 @@ need to be cognizant of:
 
 
 # How to run the code to obtain the results 
-1. You may run 'baysianfilter.m' to see by a plot, what a Bayesian filter predicts and compare with the true state value.
+1. You may run 'baysianfilter.m' to see by a plot, what a Bayesian filter predicts and compare it with the true state value. You also get the predicted state for the Bayesian filter. 
 2. Run 'code.m'
 3. Input a number as the range of the uniform distribution of disturbance,
 4. Input a number as the range of the uniform distribution of noise,
-5. Obtain the plots (needed in the tasks) and the predicted state for the Bayesian filter. 
+5. Obtain the plots (needed in the tasks).
